@@ -1,0 +1,18 @@
+body {
+	font-family: "Hiragino Sans GB";
+	width: 500px;
+	margin: 0 auto;
+}
+
+header {
+	padding: 30px 10px;
+	text-align: center;
+	font-size: 2em;
+}
+
+li {
+	list-style: none;
+	text-decoration: none;
+	text-align: center;
+}
+
