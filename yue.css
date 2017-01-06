@@ -1,6 +1,5 @@
 body {
 	font-family: "Hiragino Sans GB";
-	width: 400px;
 	margin: 0 auto;
 }
 
@@ -14,5 +13,10 @@ li {
 	list-style: none;
 	text-decoration: none;
 	text-align: center;
+}
+
+.column ul {
+	width: 400px;
+	float: left;
 }
 
